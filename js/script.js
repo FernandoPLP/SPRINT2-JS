@@ -37,7 +37,6 @@ function mudaFrase() {
 }
 setInterval(mudaFrase, 4000);       
 
-
 const usuario = {
     nome: document.querySelector('#c-nome'),
     sobrenome: document.querySelector('#c-sobrenome'),
